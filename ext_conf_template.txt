@@ -1,0 +1,8 @@
+# cat=basic//; type=string; label=LLL:EXT:mh_aws_image_analyser/Resources/Private/Language/locallang_backend.xlf:AwsRekognitionClient.arguments.region
+AwsRekognitionClient.arguments.region = eu-west-1
+
+# cat=basic//; type=string; label=LLL:EXT:mh_aws_image_analyser/Resources/Private/Language/locallang_backend.xlf:AwsRekognitionClient.arguments.credentials.key
+AwsRekognitionClient.arguments.credentials.key =
+
+# cat=basic//; type=string; label=LLL:EXT:mh_aws_image_analyser/Resources/Private/Language/locallang_backend.xlf:AwsRekognitionClient.arguments.credentials.secret
+AwsRekognitionClient.arguments.credentials.secret =

@@ -1,0 +1,25 @@
+{
+  "name": "different-technology/mh-aws-image-analyser",
+  "type": "typo3-cms-extension",
+  "version": "0.0.0",
+  "description": "TYPO3 extension to auto fill your 'alternative'-Tags of your images with Amazon Rekognition image detection.",
+  "homepage": "https://different.technology/",
+  "support": {
+    "source": "https://github.com/different-technology/mh-aws-image-analyser.git"
+  },
+  "license": "GPL-2.0+",
+  "require": {
+    "typo3/cms-core": "^8.0 || ^9.0",
+    "aws/aws-sdk-php": "^3.24"
+  },
+  "autoload": {
+    "psr-4": {
+      "MH\\MhAwsImageAnalyser\\": "Classes/"
+    }
+  },
+  "replace": {
+    "mh_aws_image_analyser": "self.version",
+    "typo3-ter/mh_aws_image_analyser": "self.version",
+    "typo3-ter/mh-aws-image-analyser": "self.version"
+  }
+}

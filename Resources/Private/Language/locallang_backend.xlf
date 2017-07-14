@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2017-07-14T14:06:47Z" product-name="mh_aws_image_analyser">
+        <header/>
+        <body>
+            <trans-unit id="AwsRekognitionClient.arguments.region">
+                <source>AWS Rekognition - Region (for example "eu-west-1")</source>
+            </trans-unit>
+            <trans-unit id="AwsRekognitionClient.arguments.credentials.key">
+                <source>AWS Rekognition - Credentials key</source>
+            </trans-unit>
+            <trans-unit id="AwsRekognitionClient.arguments.credentials.secret">
+                <source>AWS Rekognition - Credentials secret</source>
+            </trans-unit>
+            <trans-unit id="sys_file_reference.tx_autofill_alternative.label">
+                <source>Auto fill "Alternative Text"</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
